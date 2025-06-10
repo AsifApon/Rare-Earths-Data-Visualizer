@@ -1,0 +1,5 @@
+{
+  "name": "Rare Earths Data Visualizer",
+  "description": "A web application to visualize and explore data about Rare Earths, based on U.S. Geological Survey Mineral Commodity Summaries. Includes insights powered by Gemini API.",
+  "requestFramePermissions": []
+}
